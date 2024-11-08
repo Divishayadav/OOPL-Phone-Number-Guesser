@@ -10,7 +10,6 @@ Simple GUI: Built using JFrame and JPanel to create an intuitive user interface.
 Technologies Used:
 Java (JDK 8 or higher)
 Java Swing for the graphical user interface.
-Installation and Setup
 
 How to Use:
 Launch the application: Run the program to open the GUI.
